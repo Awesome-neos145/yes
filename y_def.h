@@ -10,4 +10,4 @@
 #include <stdlib.h>
 
 // optional build options
-#define CHOOSEINPUT // enable custom input string 
+//#define CHOOSEINPUT // enable custom input string 
